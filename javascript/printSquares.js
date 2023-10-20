@@ -2,7 +2,7 @@
 
 // Oct 20 2023
 
-// print pattern of #'s horizontaly and vertically based on variable
+// print pattern of #'s horizontaly and vertically based on user input
 
 "use strict";
 
