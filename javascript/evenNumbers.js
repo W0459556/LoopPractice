@@ -24,8 +24,8 @@ function main()
         if (counter%2 == 0){
             strOutput = strOutput + counter + ", ";
         }
-        console.log(strOutput)
     }
+    console.log(strOutput)
 
 }
 
