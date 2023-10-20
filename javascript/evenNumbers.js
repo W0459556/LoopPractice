@@ -8,11 +8,11 @@
 
 function main()
 {
-    let counterD = 0;
+    let counter = 0;
     let strOutput = "";
-    while (counterD<100){ 
-        strOutput = strOutput + ", " + (counterD);
-        counterD = counterD + 2;
+    while (counter<101){ 
+        strOutput = strOutput + (counter) + ", ";
+        counter = counter + 2;
     }
     console.log(strOutput); // this will print the output all in one line 
 
